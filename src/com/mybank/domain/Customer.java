@@ -1,6 +1,5 @@
 package com.mybank.domain;
 
-
 public class Customer {
 
     private String firstName;
@@ -27,5 +26,5 @@ public class Customer {
     public void setAccount(Account acct) {
         account = acct;
     }
-    
+
 }
